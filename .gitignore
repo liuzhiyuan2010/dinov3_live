@@ -1,0 +1,8 @@
+dinov3_weights/
+facebookresearch_dinov3_main/
+.idea/
+run/
+
+*.yaml
+*.7z
+*.pt
