@@ -8,7 +8,7 @@ dinov3_wieghts/
 dinov3_weights/
 facebookresearch_dinov3_main/
 .idea/
-run/
+runs/
 
 *.yaml
 *.7z
