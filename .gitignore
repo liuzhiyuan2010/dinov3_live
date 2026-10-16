@@ -4,8 +4,6 @@ dinov3_live_key
 dinov3_live_key.pub
 
 # 模型权重
-dinov3_wieghts/
-dinov3_weights/
 facebookresearch_dinov3_main/
 .idea/
 runs/
@@ -13,3 +11,4 @@ runs/
 *.yaml
 *.7z
 *.pt
+*.pth
